@@ -1,2 +1,2 @@
-# stress2
-corrected version demo
+# stress
+demo for self-care 
